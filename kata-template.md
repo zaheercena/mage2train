@@ -1,10 +1,10 @@
-# Kata Title
+# Lesson Title
 
-Kata Description
+Lesson Description
 
-## Kata Solution
+## Lesson Solution
 
-Description of the kata solution.
+Description of the Lesson solution.
 
 ```php
 <?php
