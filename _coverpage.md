@@ -8,6 +8,6 @@
 - Solutions Explained
 - Real-life use cases
 
-[Get Started](#mage2train)
+[Get Started](#mage2-code-katas)
 
 ![color](#f2f8f7)
