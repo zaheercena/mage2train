@@ -1,6 +1,6 @@
 - Catalog
 
-  - <a href="https://raw.githubusercontent.com/zaheercena/mage2train/main/js-framework/create-custom-validation-rule.md" alt="Add Custom Product Option Type">Add Custom Product Option Type</a>
+  - <a href="#/main/js-framework/create-custom-validation-rule.md" alt="Add Custom Product Option Type">Add Custom Product Option Type</a>
 
 - JS Framework
 
