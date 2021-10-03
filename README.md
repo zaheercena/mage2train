@@ -1,3 +1,3 @@
-# Mage2 Code Katas
+# Mage2 Lessons
 
-List of Magento2 katas that helps to practice essential everyday tasks.
+List of Magento2 lessons that helps to practice essential everyday tasks.
